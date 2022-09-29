@@ -38,4 +38,4 @@ I like to work in a agile/scrum team, using A/B testing and data analysis to des
 <br />
 <br />
 
-[linkedin]: www.linkedin.com/in/cristian-palermo-BitRocketDev
+[linkedin]: https://www.linkedin.com/in/cristian-palermo-BitRocketDev
